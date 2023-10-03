@@ -1,2 +1,2 @@
 # nick
-- 🚀 I like coding
+- 🚀 
