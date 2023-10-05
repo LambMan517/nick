@@ -3,8 +3,8 @@
 - 🚀 I am in currently learning programming at WHS
 - 💻 I have also taken AP Computer Science
 - 🏫 Im a student at WHS
-- 🐫 I enjoy sleeping
-- 🏅 I like sports
+- 🐫 I am looking to collaborate with other students
+- 📫 How to reach me @tosin24@wpsma.org
 ### Code.org GameLab
 [Robot Face](https://LambMan517.github.io/Robot-/)
 > In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
