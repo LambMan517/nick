@@ -4,7 +4,7 @@
 - 💻 I have also taken AP Computer Science
 - 🏫 Im a student at WHS
 - 🐫 I enjoy sleeping
-- 🏅 Like sports
+- 🏅 I like sports
 ### Code.org GameLab
 [Robot Face](https://LambMan517.github.io/Robot-/)
 > In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
