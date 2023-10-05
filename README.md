@@ -1,6 +1,6 @@
 # nick
 ![octosmall](https://github.com/LambMan517/nick/assets/146844632/248c8747-89c3-4a7e-8444-d40cd83a6553)
-- 🚀 I am in computer programming
+- 🚀 I am in currently learning programming at WHS
 - 🚀 I like Coding a lot
 - 🚀 Im a student at WHS
 ### Code.org GameLab
