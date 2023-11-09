@@ -11,3 +11,4 @@
 
 [Captioned Scene](https://studio.code.org/projects/gamelab/LN0rMV4DiC5tdrl2Hbeae6YYXEsTmZ7LSTXanwuxgek)
 [Interactive Card](https://studio.code.org/projects/gamelab/SFPeyv1jAZZf3sFVp1tP5yUk9yQKYvRu0MwDOulv674)
+[Side Scroller Project](https://studio.code.org/projects/gamelab/R8cCDk9F7lpfLJ_yyPjq_EIJwM3r9F_8xRTQ49LOTME)
