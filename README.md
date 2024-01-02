@@ -31,6 +31,9 @@
 [My piano](https://ai2.appinventor.mit.edu/#4766039499735040)
 > In thbis project we where able to create a piano that makes sounds when you click on the keys
 
+[Gold Hunt](https://gallery.appinventor.mit.edu/?galleryid=2b657609-7fff-4dce-a5da-e538748fcaf3)
+> In this project I used MIT App Inventor to code a maze game where the player's goal is to reach the gold
+
 [Hello It's Me](https://ai2.appinventor.mit.edu/#6513530586923008)
 > In this project we used our basic coding skills to make a game where whatever animal you click on you hear a sound
 
