@@ -40,3 +40,10 @@
  [Create Your Own Game](https://ai2.appinventor.mit.edu/#6463524775526400)
  > In this project we created a game that used all of the coding and desgin skills we learned from previous assignments in MIT App Inventor
 
+### CMU Python
+[Creative Task 1](https://academy.cs.cmu.edu/exercise/4132/)
+> In this project we must create a a design with all of the the coding skills we learned about in python I created a DJ turntable 
+
+[Creative Task 2](https://academy.cs.cmu.edu/exercise/4190/)
+> In this project my partner and I used our advance python coding skills to create a design we created a workbench with tools 
+
