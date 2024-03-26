@@ -45,5 +45,9 @@
 > In this project we must create a a design with all of the the coding skills we learned about in python I created a DJ turntable 
 
 [Creative Task 2](https://academy.cs.cmu.edu/exercise/4190/)
-> In this project my partner and I used our advance python coding skills to create a design we created a workbench with tools 
+> In this project my partner and I used our advance python coding skills to create a design we created a workbench with tools
+
+[Creative task 3](https://academy.cs.cmu.edu/exercise/6406/)
+>In this project me and my partner created a Northern Lights scene 
+
 
