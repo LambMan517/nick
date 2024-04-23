@@ -42,15 +42,15 @@
 
 ### CMU Python
 [Creative Task 1](https://academy.cs.cmu.edu/exercise/4132/)
-> In this project we must create a a design with all of the the coding skills we learned about in python I created a DJ turntable 
+> In this project we must create a a design with all of the the coding skills we learned about in python I created a DJ turntable using shapes 
 
 [Creative Task 2](https://academy.cs.cmu.edu/exercise/4190/)
-> In this project my partner and I used our advance python coding skills to create a design we created a workbench with tools
+> In this project my partner and I used our advance python coding skills to create a design we created a workbench with tools using functions 
 
 [Creative Task 3](https://academy.cs.cmu.edu/exercise/6406/)
->In this project me and my partner created a Northern Lights scene
+>In this project me and my partner created a Northern Lights scene using if else statements and conditonals as well as mouse events
 
 [Creative Task 4](https://academy.cs.cmu.edu/exercise/4282/)
->In this project me and my parnter used the skills we learned to create an image of Galactus from Marvel 
+>In this project me and my parnter used the skills we learned like shape methods and keypress mechancis to create an image of Galactus from Marvel 
 
 
